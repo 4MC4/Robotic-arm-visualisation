@@ -1,0 +1,16 @@
+numpy==1.22.3
+spatialmath-python==0.11
+sympy==1.10.1
+roboticstoolbox-python==0.11.0
+qpsolvers==1.9.1
+Pillow==9.1.0
+rtb-data==0.10.1
+kiwisolver==1.4.2
+spatialgeometry==0.2.0
+scipy=1.8.0
+packaging==21.3
+ansitable==0.9.6
+colored==1.4.3
+pgraph-python==0.6.1
+pyparsing==3.0.8
+swift-sim==0.10.0
